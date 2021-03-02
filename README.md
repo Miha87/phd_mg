@@ -1,5 +1,5 @@
 # phd_mg
-Repo sadrži materijal kreirani tijekom izrade doktorskog rada.
+Repo sadrži materijal kreiran tijekom izrade doktorskog rada.
 
 Tema rada bio je razvoj sustava za istovremeno prepoznavanje i vremensku segmentaciju  
 ljudskih aktivnosti, primjenom dubokog strojnog učenja. Zainteresirani, mogu pretražiti   
