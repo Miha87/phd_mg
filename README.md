@@ -2,7 +2,7 @@
 Repo sadrži materijal kreiran tijekom izrade doktorskog rada.
 
 Glavni elementi repo-a su:
-* data_prep - priprema ulaznih podataka (Py)
+* data_prep - priprema ulaznih podataka (ipynb)
 * stat_analiza - sadrži statističku analizu uzorka iz phd-a (R)
 * phd_research - sadrži razvijenu biblioteku **phd_lib** za duboko strojnog učenje   
 s podatcima u obliku video zapisa i skripte u kojima je ta biblioteka primijenjena (Py).
