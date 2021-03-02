@@ -1,6 +1,12 @@
 # phd_mg
 Repo sadrži materijal kreiran tijekom izrade doktorskog rada.
 
+Glavni elementi repo-a su:
+* data_prep - priprema ulaznih podataka (Py)
+* stat_analiza - sadrži statističku analizu uzorka iz phd-a (R)
+* phd_research - sadrži razvijenu biblioteku **phd_lib** za duboko strojnog učenje   
+s podatcima u obliku video zapisa i skripte u kojima je ta biblioteka primijenjena (Py).
+
 Tema rada bio je razvoj sustava za istovremeno prepoznavanje i vremensku segmentaciju  
 ljudskih aktivnosti, primjenom dubokog strojnog učenja. Zainteresirani, mogu pretražiti   
 literaturu o ovom problemu preko ključnih riječi **"action segmentation"** ili     
@@ -23,11 +29,3 @@ Zašto 27 modela?
 Istraženi je utjecaj snimaka iz *tri kadra snimanja*, uz *tri načina pripreme ulaznih značajki*   
 i *tri arhitekture za finalnu segmentaciju i klasifikaciju*. Drugim riječima, napravljeni su  
 eksperimenti s tri promijenjiva faktora pri čemu svaki faktor ima tri stanja.
-
-Glavni elementi repo-a su:
-* Priprema ulaznih podataka
-* Statistička analiza uzorka
-* phd_research - sadrži razvijenu biblioteku **phd_lib** za duboko strojnog učenje   
-s podatcima u obliku video zapisa i skripte u kojima je ta biblioteka primijenjena.
-* testing - testiranje raznih funkcionalnosti TF 2, saznanja o konverziji video zapisa   
-primjenom OpenCV-a itd.
