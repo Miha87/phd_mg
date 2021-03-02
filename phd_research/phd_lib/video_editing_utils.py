@@ -27,10 +27,10 @@ def video_to_segment(path_to_video, output_dir, output_file, start_point, durati
         Naziv datoteke izlaznog isječka.
     
     start_point: str
-        Format <"minuta:sekunda"> u kojoj minuti i sekundi kreće isječak (npr. "9:15").
+        Format "minuta:sekunda" u kojoj minuti i sekundi kreće isječak (npr. "9:15").
     
     duration: str 
-        Format <"minuta:sekunda"> koliko je ukupno trajanje isječka.
+        Format "minuta:sekunda" koliko je ukupno trajanje isječka.
     
     Povratna vrijednost:
     -------------------
@@ -65,7 +65,7 @@ def video_to_image(path_to_video, output_dir, image_res, fps):
         Apsolutna putanja do direktorija u kojem će biti pohranjeni video zapisi.
     
     image_res: str 
-        Format <"širina:visina"> definira rezoluciju izlazne slike.
+        Format "širina:visina" definira rezoluciju izlazne slike.
     
     fps: float 
         Broj kojim definiramo frekvenciju uzorkovanja iz video zapisa.
@@ -191,7 +191,7 @@ def video_to_gif(path_to_video, output_dir, output_file, image_res, fps):
         Naziv datoteke izlaznog gif-a (npr. "ime.gif")
     
     image_res: str 
-        Format <"širina:visina"> definira rezoluciju izlazne slike.
+        Format "širina:visina" definira rezoluciju izlazne slike.
     
     fps: float 
         Broj kojim definiramo frekvenciju uzorkovanja iz video zapisa.
