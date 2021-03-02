@@ -2,8 +2,8 @@
 Repo sadrži materijal kreirani tijekom izrade doktorskog rada.
 
 Tema rada bio je razvoj sustava za istovremeno prepoznavanje i vremensku segmentaciju  
-ljudskih aktivnosti, primjenom dubokog strojnog učenja. Zainteresirani, mogu pretražiti 
-literaturu o ovom problemu preko ključnih riječi **"action segmentation"** ili   
+ljudskih aktivnosti, primjenom dubokog strojnog učenja. Zainteresirani, mogu pretražiti   
+literaturu o ovom problemu preko ključnih riječi **"action segmentation"** ili     
 **"action detection"** iz video zapisa.
 
 Problem koji je motivirao istraživanje je želja da se olakša posao vrednovanja   
@@ -27,7 +27,7 @@ eksperimenti s tri promijenjiva faktora pri čemu svaki faktor ima tri stanja.
 Glavni elementi repo-a su:
 * Priprema ulaznih podataka
 * Statistička analiza uzorka
-* phd_research - sadrži razvijenu biblioteku **phd_lib** za duboko strojnog učenje 
+* phd_research - sadrži razvijenu biblioteku **phd_lib** za duboko strojnog učenje   
 s podatcima u obliku video zapisa i skripte u kojima je ta biblioteka primijenjena.
-* testing - testiranje raznih funkcionalnosti TF 2, saznanja o konverziji video zapisa 
+* testing - testiranje raznih funkcionalnosti TF 2, saznanja o konverziji video zapisa   
 primjenom OpenCV-a itd.
