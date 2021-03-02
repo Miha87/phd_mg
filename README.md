@@ -3,7 +3,7 @@ Repo sadrži materijal kreiran tijekom izrade doktorskog rada.
 
 Glavni elementi repo-a su:
 * data_prep - priprema ulaznih podataka (ipynb)
-* stat_analiza - sadrži statističku analizu uzorka iz phd-a (R)
+* stat_analiza - statistička analiza uzorka iz phd-a (R)
 * phd_research - sadrži razvijenu biblioteku **phd_lib** za duboko strojnog učenje   
 s podatcima u obliku video zapisa i skripte u kojima je ta biblioteka primijenjena (Py).
 
@@ -26,6 +26,6 @@ Napravljeno je 27 modela čiji su ulazi video zapisi trajanja do 2 minute,
 koji sadrže niz aktivnosti iz realnog proizvodnog procesa.  
 
 Zašto 27 modela?  
-Istraženi je utjecaj snimaka iz *tri kadra snimanja*, uz *tri načina pripreme ulaznih značajki*   
+Istražen je utjecaj snimaka iz *tri kadra snimanja*, uz *tri načina pripreme ulaznih značajki*   
 i *tri arhitekture za finalnu segmentaciju i klasifikaciju*. Drugim riječima, napravljeni su  
 eksperimenti s tri promijenjiva faktora pri čemu svaki faktor ima tri stanja.
