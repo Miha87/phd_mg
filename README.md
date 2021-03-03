@@ -5,10 +5,10 @@ The research was motivated by weaknesses of traditional approaches to time study
 which are time-consuming and highly subjective. Mentioned motivation reflects my   
 background in industrial engineering.  
 
-The goal of this research was the development of a deep learning model with the capability    
-of recognition and temporal segmentation of a series of human activities from videos collected     
-in manufacturing processes. This problem is usually called **"action segmentation"** or     
-**"action detection"**.
+The goal of this research was the development of a deep learning model with the   
+capability of recognition and temporal segmentation of a series of human activities   
+from videos collected in manufacturing processes. This problem is usually called   
+**"action segmentation"** or **"action detection"**.
 
 Model inputs were videos of the maximum duration of up to 2 minutes.
 
@@ -21,13 +21,13 @@ Examples of model output:
 Additional output:  
 ![image](https://user-images.githubusercontent.com/34508474/109805975-662faf00-7c24-11eb-8d07-5139e87bfb6d.png)
 
-To achieve this goal, a sample was collected from the real manufacturing process,  
-which consists of nine work activities. Approximately 40 hours of video recording were 
-collected. During the video recording of the process, the work activities were performed   
-by four subjects on three different types of products, while the recording itself was 
-performed from two different view positions. 27 different models have been developed which differ 
-with respect to recording viewpoint, model input features, and model architecture responsible 
-for activity classification and time segmentation.  
+To achieve this goal, a sample was collected from the real manufacturing process,    
+which consists of nine work activities. Approximately 40 hours of video recording were   
+collected. During the video recording of the process, the work activities were performed     
+by four subjects on three different types of products, while the recording itself was   
+performed from two different view positions. 27 different models have been developed which 
+differ with respect to recording viewpoint, model input features, and model architecture   
+responsible for activity classification and time segmentation.    
 
 The main parts of the repository are:
 * data_prep - data preparation process (ipynb)
