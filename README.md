@@ -12,7 +12,7 @@ literaturu o ovom problemu preko ključnih riječi **"action segmentation"** ili
 ![327_gif](https://user-images.githubusercontent.com/34508474/109805011-37fd9f80-7c23-11eb-8188-ab54e32b81dc.gif)
 
 Izlaz sustava:  
-![image](https://user-images.githubusercontent.com/34508474/109805596-f3becf00-7c23-11eb-9bdf-0d9ea96779a8.png)
+![Bez naslova](https://user-images.githubusercontent.com/34508474/109805822-3385b680-7c24-11eb-8659-e461db392687.jpg)
 
 
 Glavni elementi repo-a su:
