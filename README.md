@@ -30,9 +30,9 @@ which differ with respect to recording viewpoint, model input features, and mode
 architecture responsible for activity classification and time segmentation.      
 
 The main parts of the repository are:
-* data_prep - data preparation process (ipynb)
-* stat_analiza - statistical analysis of the collected sample (R)
-* phd_research - it contains a developed library **phd_lib** based on TF 2     
+* **data_prep** - data preparation process (ipynb)
+* **stat_analiza** - statistical analysis of the collected sample (R)
+* **phd_research** - it contains a developed library **phd_lib** based on TF 2     
 for easy application of deep learning to video data and scripts in   
 which phd_lib was applied during experiments (Py)
 
