@@ -25,9 +25,9 @@ To achieve this goal, a sample was collected from the real manufacturing process
 which consists of nine work activities. Approximately 40 hours of video recording were   
 collected. During the video recording of the process, the work activities were performed     
 by four subjects on three different types of products, while the recording itself was   
-performed from two different view positions. 27 different models have been developed which 
-differ with respect to recording viewpoint, model input features, and model architecture   
-responsible for activity classification and time segmentation.    
+performed from two different view positions. 27 different models have been developed  
+which differ with respect to recording viewpoint, model input features, and model   
+architecture responsible for activity classification and time segmentation.      
 
 The main parts of the repository are:
 * data_prep - data preparation process (ipynb)
