@@ -7,7 +7,7 @@ literaturu o ovom problemu preko ključnih riječi **"action segmentation"** ili
 **"action detection"** iz video zapisa.
 
 ![25_gif](https://user-images.githubusercontent.com/34508474/109804982-2fa56480-7c23-11eb-86a3-8c17f60f4261.gif)
-![196_gif](https://user-images.githubusercontent.com/34508474/109804991-3338eb80-7c23-11eb-9cb2-cb6c99a60b1d.gif)
+![196_gif](https://user-images.githubusercontent.com/34508474/109804991-3338eb80-7c23-11eb-9cb2-cb6c99a60b1d.gif)  
 ![256_gif](https://user-images.githubusercontent.com/34508474/109805003-3633dc00-7c23-11eb-9815-57abe2f80911.gif)
 ![327_gif](https://user-images.githubusercontent.com/34508474/109805011-37fd9f80-7c23-11eb-8188-ab54e32b81dc.gif)
 
