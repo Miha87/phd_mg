@@ -12,7 +12,8 @@ literaturu o ovom problemu preko ključnih riječi **"action segmentation"** ili
 ![327_gif](https://user-images.githubusercontent.com/34508474/109805011-37fd9f80-7c23-11eb-8188-ab54e32b81dc.gif)
 
 Izlaz sustava:  
-![image](https://user-images.githubusercontent.com/34508474/109805930-54e6a280-7c24-11eb-972d-75ce7e44e2ff.png)
+![image](https://user-images.githubusercontent.com/34508474/109805975-662faf00-7c24-11eb-8d07-5139e87bfb6d.png)
+
 
 
 
