@@ -1,13 +1,13 @@
 #Phd repo
 Repo contains material created during experiments that were part of the Ph.D. thesis.
 
-The research was motivated by weaknesses of traditional approaches to time study,   
-which are time-consuming and highly subjective. Mentioned motivation reflects my 
+The research was motivated by weaknesses of traditional approaches to time study,     
+which are time-consuming and highly subjective. Mentioned motivation reflects my   
 background in industrial engineering.  
 
-The goal of this research was the development of a deep learning model with the capability  
-of recognition and temporal segmentation of a series of human activities from videos collected   
-in manufacturing processes. This problem is usually called **"action segmentation"** or   
+The goal of this research was the development of a deep learning model with the capability    
+of recognition and temporal segmentation of a series of human activities from videos collected     
+in manufacturing processes. This problem is usually called **"action segmentation"** or     
 **"action detection"**.
 
 Model inputs were videos of the maximum duration of up to 2 minutes.
