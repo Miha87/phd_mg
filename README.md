@@ -1,4 +1,4 @@
-# Phd repo
+# Deep learning based action segmentation in manufacturing processes
 Repo contains material created during experiments that were part of the Ph.D. thesis.
 
 The research was motivated by weaknesses of traditional approaches to time study,     
