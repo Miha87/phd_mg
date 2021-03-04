@@ -1,4 +1,4 @@
-# Deep learning based action segmentation in manufacturing processes
+# Deep learning approach for action segmentation in manufacturing assembly process
 Repo contains material created during experiments that were part of the Ph.D. thesis.
 
 The research was motivated by weaknesses of traditional approaches to time study,     
