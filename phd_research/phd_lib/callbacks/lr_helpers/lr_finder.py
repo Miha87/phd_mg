@@ -174,7 +174,7 @@ class LearningRateFinder:
         može prikazati sirove ili izglađene gubitke ako su izračunti.'''
         
         rates = self.rates
-        if self.smoothing_factor is None:
+        if smooth_losses==True and self.smoothing_factor is None:
             raise ValueError("Izglađeni gubitci nisu izračunati,\
                              mogu prikazati samo sirove gubitke")
         if smooth_losses:
